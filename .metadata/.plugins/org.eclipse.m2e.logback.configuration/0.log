@@ -1,0 +1,79 @@
+2019-05-08 04:52:50,461 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-08 04:53:17,553 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.cilia:first:0.0.1-SNAPSHOT @ /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/pom.xml.
+2019-05-08 04:53:17,833 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /first/src/main/java
+2019-05-08 04:53:17,834 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /first/src/test/java
+2019-05-08 04:53:17,907 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-05-08 04:53:18,063 [Worker-2: Auto share git projects] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+'
+2019-05-08 04:53:19,142 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:53:19,142 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 04:53:19,144 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:53:19,145 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 04:53:27,290 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:53:27,291 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 04:53:27,292 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:53:27,293 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 04:54:34,213 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:54:34,213 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 04:54:34,216 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:54:34,216 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 04:54:35,229 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:54:35,229 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 04:54:35,231 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 04:54:35,231 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:00:04,058 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:00:04,058 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:00:04,059 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:00:04,059 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:02:16,060 [Worker-7: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:02:16,060 [Worker-7: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:02:16,061 [Worker-7: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:02:16,061 [Worker-7: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:02:16,181 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:02:16,181 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:02:16,183 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:02:16,183 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:03:20,985 [Worker-17: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:03:20,986 [Worker-17: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:03:20,988 [Worker-17: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:03:20,988 [Worker-17: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:04:54,250 [Worker-11: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:04:54,250 [Worker-11: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:04:54,251 [Worker-11: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:04:54,251 [Worker-11: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:05:36,322 [Worker-1: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:05:36,323 [Worker-1: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:05:36,324 [Worker-1: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:05:36,324 [Worker-1: Launching LogInCorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:07:34,482 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:07:34,482 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:07:34,483 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:07:34,484 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 05:09:56,132 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:09:56,132 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 05:09:56,133 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 05:09:56,134 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 21:12:01,358 [Worker-111: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 21:12:01,360 [Worker-111: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 21:12:01,361 [Worker-111: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 21:12:01,362 [Worker-111: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-08 21:12:33,277 [Worker-108: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 21:12:33,277 [Worker-108: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-08 21:12:33,279 [Worker-108: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-08 21:12:33,279 [Worker-108: Launching LogInIncorreto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-11 22:48:26,329 [Worker-270: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 22:48:26,332 [Worker-270: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-11 22:48:26,333 [Worker-270: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 22:48:26,333 [Worker-270: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-11 22:48:33,719 [Worker-272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 22:48:33,719 [Worker-272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-11 22:48:33,722 [Worker-272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 22:48:33,723 [Worker-272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-11 23:46:29,504 [Worker-276: Launching BuscaPassagem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 23:46:29,505 [Worker-276: Launching BuscaPassagem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-11 23:46:29,506 [Worker-276: Launching BuscaPassagem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 23:46:29,506 [Worker-276: Launching BuscaPassagem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
+2019-05-11 23:49:28,218 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 23:49:28,218 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/main/resources
+2019-05-11 23:49:28,219 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 23:49:28,219 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rootuser/Downloads/TestesFuncionaisDeCilia/first/src/test/resources
